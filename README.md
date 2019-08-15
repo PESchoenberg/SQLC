@@ -5,7 +5,7 @@
 
 ## Overview:
 
-SQLC is an MFD specfically designed to interact with the onboard expert system
+SQLC is an MFD specifically designed to interact with the onboard expert system
 that runs the DGIIIAI Delta Glider for Orbiter Space Flight Simulator.
 
 
