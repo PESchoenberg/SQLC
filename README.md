@@ -1,12 +1,12 @@
 # SQLC - Multi function display for the DGIIIAI Delta Glider.
 
-
+[![DOI](https://zenodo.org/badge/202592309.svg)](https://zenodo.org/badge/latestdoi/202592309)
 
 
 ## Overview:
 
-SQLC is an MFD specfically designed to interact with the onboard expert system
-that runs the DGIIIAI Delta Glider for Orbiter Space Flight Simulator.
+Multi function display (MFD) designed to interact with the onboard expert 
+system that runs the DGIIIAI Delta Glider for Orbiter Space Flight Simulator.
 
 
 ## Dependencies:
