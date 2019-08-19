@@ -48,6 +48,19 @@ Orbiter instead of you main one.
 * Load one of the provided scenarios. The ship will soon start acting on its
 own.
 
+* This MFD requires that a Sqlite3 database is installed and has been specially
+designed to work with DGIIIAI. It is not compatible with other ships for OSFS.
+
+
+## Related projects:
+
+* gexsys - https://github.com/PESchoenberg/gexsys - This is a Scheme-based 
+expert system developed directly from DGIIIAI. There are some differences 
+between both, being the main one that the system installed on DGIIIAI is 
+specific for this space ship, while gexsys is mre general-purpose, but broadly 
+speaking they work very similarly. Thus, you could use both for double feedback 
+and testing.
+
 
 ## Credits and Sources:
 
