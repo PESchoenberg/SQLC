@@ -14,7 +14,7 @@ system that runs the DGIIIAI Delta Glider for Orbiter Space Flight Simulator.
 * Orbiter Space Flight Simulator 2010 (OSFS) or newer 
 - http://orbit.medphys.ucl.ac.uk/
 
-* MS Visual Studio 2010 or higher with OpenMP compatibility.
+* MS Visual Studio 2010 or later, with OpenMP compatibility.
 
 * Sqlite3 - https://www.sqlite.org/index.html
 
@@ -64,7 +64,9 @@ and testing.
 
 ## Credits and Sources:
 
-* Dr. Martin Schweiger, for OSFS.
+* Schweiger, M. (2000). Orbiter 2016 Space Flight Simulator. [online]
+Orbit.medphys.ucl.ac.uk. Available at: http://orbit.medphys.ucl.ac.uk/
+[Accessed 26 Aug. 2019].
 
 * Credits for the original DGIII and MFD template files are kept as in the
 original versions.
