@@ -12,13 +12,13 @@ system that runs the DGIIIAI Delta Glider for Orbiter Space Flight Simulator.
 ## Dependencies:
 
 * Orbiter Space Flight Simulator 2010 (OSFS) or newer 
-- http://orbit.medphys.ucl.ac.uk/
+( http://orbit.medphys.ucl.ac.uk/ )
 
 * MS Visual Studio 2010 or later, with OpenMP compatibility.
 
-* Sqlite3 - https://www.sqlite.org/index.html
+* Sqlite3 ( https://www.sqlite.org/index.html )
 
-* DGIIIAI - https://github.com/PESchoenberg/DGIIIAI.git
+* DGIIIAI ( https://github.com/PESchoenberg/DGIIIAI.git )
 
 
 ## Installation:
