@@ -32,7 +32,7 @@ int g_MFDmode;
 
 // ==============================================================
 // API interface.
-cd 
+ 
 DLLCLBK void InitModule (HINSTANCE hDLL)
 {
 	static char *name = "SQL Console";   // MFD mode name.
