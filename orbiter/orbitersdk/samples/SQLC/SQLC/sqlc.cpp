@@ -255,7 +255,7 @@ Return button labels.
 */
 char *SQLC::ButtonLabel (int bt)
 {
-	// The labels for the two buttons used by our MFD mode.
+	// The labels for the buttons used by our MFD mode.
 	static char *label[NUM_BUTTONS] = {"DB", "CON", "DIS", "SQL", "MON", "MOF", "PON", "POF", "ITM", "VAL", "EXE"};
 	return (bt < NUM_BUTTONS ? label[bt] : 0);
 }
