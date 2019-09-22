@@ -168,3 +168,17 @@ getfromnetwork;;;;0;0
 applykbrules;;;;0;0
 dbtoact;;;;0;0
 AI;;;;1;1
+loop;;;;0;0
+sync;;;;0;0
+synchronization;;;;0;0
+external;;;;0;0
+queries;;;;0;0
+statement;;;;0;0
+cpu;;;;0;0
+user;;;;0;0
+version;;;;0;0
+hardware;;;;0;0
+resource;;;;0;0
+time;;;;0;0
+task;;;;0;0
+method;;;;0;0
