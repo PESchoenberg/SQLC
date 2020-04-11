@@ -12,7 +12,7 @@
 // point for your own MFD developments.
 // ==============================================================
 //	SQL Console
-// Pablo Edronkin, 2017
+// Pablo Edronkin, 2017 - 2020.
 //
 // sqlc.h
 //
